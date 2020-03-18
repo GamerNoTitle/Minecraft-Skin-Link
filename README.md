@@ -51,7 +51,7 @@ According to the people on [Baidu Tieba](https://tieba.baidu.com/p/5843933209?re
 
   > {"timestamp":1584526030943,"profileId":"35c432a4cf6b4485bef93957e7b7f509","profileName":"GamerNoTitle","textures":{"SKIN":{"url":"http://textures.minecraft.net/texture/b3f5b8fa149e20646f04b6d111c1d181a173ce4c4b291ffff1e227064431278a","metadata":{"model":"slim"}}}}
 
-  they recode the information about your skin, and the url in the result is the real link that connected to your skin.
+  they record the information about your skin, and the url in the result is the real link that connected to your skin.
 
   ![](http://textures.minecraft.net/texture/b3f5b8fa149e20646f04b6d111c1d181a173ce4c4b291ffff1e227064431278a)
 
